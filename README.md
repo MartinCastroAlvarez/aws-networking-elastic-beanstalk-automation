@@ -1,4 +1,4 @@
-# AWS Elastic Beanstalk Automation
+# AWS CDK Elastic Beanstalk Automation
 
 ![wallpaper](./wallpaper.jpeg)
 
